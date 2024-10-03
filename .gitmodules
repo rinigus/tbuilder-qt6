@@ -1,0 +1,12 @@
+[submodule "src/qt6-qtdeclarative"]
+	path = src/qt6-qtdeclarative
+	url = https://github.com/sailfishos-chum/qt6-qtdeclarative
+[submodule "src/qt6-qtlocation"]
+	path = src/qt6-qtlocation
+	url = https://github.com/sailfishos-chum/qt6-qtlocation
+[submodule "src/qt6-qtpositioning"]
+	path = src/qt6-qtpositioning
+	url = https://github.com/sailfishos-chum/qt6-qtpositioning
+[submodule "src/qt6-qtwayland"]
+	path = src/qt6-qtwayland
+	url = https://github.com/sailfishos-chum/qt6-qtwayland

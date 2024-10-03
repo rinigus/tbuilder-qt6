@@ -1,0 +1,1 @@
+../src/qt6-qtpositioning/rpm/qt6-qtpositioning.spec

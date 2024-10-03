@@ -1,0 +1,1 @@
+../src/qt6-qtdeclarative/rpm/qt6-qtdeclarative.spec

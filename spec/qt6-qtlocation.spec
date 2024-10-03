@@ -1,0 +1,1 @@
+../src/qt6-qtlocation/rpm/qt6-qtlocation.spec

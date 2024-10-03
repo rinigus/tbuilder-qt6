@@ -1,0 +1,9 @@
+targets:
+  - 4.6.0.13-i486
+  - 4.6.0.13-aarch64
+
+rpms: RPMS
+
+repositories:
+  - https://repo.sailfishos.org/obs/sailfishos:/chum:/testing/@VERSION@_@ARCH@/
+  - https://repo.sailfishos.org/obs/home:/piggz:/qt6/sailfish_latest_@ARCH@/
