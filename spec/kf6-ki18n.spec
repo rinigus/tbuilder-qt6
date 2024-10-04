@@ -1,0 +1,1 @@
+../src/kf6-ki18n/rpm/kf6-ki18n.spec
