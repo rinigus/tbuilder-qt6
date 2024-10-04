@@ -37,3 +37,6 @@
 [submodule "src/kf6-kcoreaddons"]
 	path = src/kf6-kcoreaddons
 	url = https://github.com/sailfishos-chum/kf6-kcoreaddons
+[submodule "src/kf6-ki18n"]
+	path = src/kf6-ki18n
+	url = https://github.com/sailfishos-chum/kf6-ki18n
