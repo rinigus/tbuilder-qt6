@@ -1,0 +1,1 @@
+../src/qt6-qtgraphs/rpm/qt6-qtgraphs.spec

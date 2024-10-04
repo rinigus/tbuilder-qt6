@@ -1,0 +1,1 @@
+../src/qt6-qtmultimedia/rpm/qt6-qtmultimedia.spec

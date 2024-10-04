@@ -46,3 +46,9 @@
 [submodule "src/qt6-qtquick3d"]
 	path = src/qt6-qtquick3d
 	url = https://github.com/sailfishos-chum/qt6-qtquick3d
+[submodule "src/qt6-qtgraphs"]
+	path = src/qt6-qtgraphs
+	url = https://github.com/sailfishos-chum/qt6-qtgraphs
+[submodule "src/qt6-qtmultimedia"]
+	path = src/qt6-qtmultimedia
+	url = https://github.com/sailfishos-chum/qt6-qtmultimedia
