@@ -1,0 +1,1 @@
+../src/kf6-kconfig/rpm/kf6-kconfig.spec

@@ -40,3 +40,9 @@
 [submodule "src/kf6-ki18n"]
 	path = src/kf6-ki18n
 	url = https://github.com/sailfishos-chum/kf6-ki18n
+[submodule "src/kf6-kconfig"]
+	path = src/kf6-kconfig
+	url = https://github.com/sailfishos-chum/kf6-kconfig
+[submodule "src/qt6-qtquick3d"]
+	path = src/qt6-qtquick3d
+	url = https://github.com/sailfishos-chum/qt6-qtquick3d

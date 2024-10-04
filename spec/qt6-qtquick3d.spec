@@ -1,0 +1,1 @@
+../src/qt6-qtquick3d/rpm/qt6-qtquick3d.spec
