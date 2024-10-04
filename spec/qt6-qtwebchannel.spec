@@ -1,0 +1,1 @@
+../src/qt6-qtwebchannel/rpm/qt6-qtwebchannel.spec

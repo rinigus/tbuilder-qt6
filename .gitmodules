@@ -10,3 +10,24 @@
 [submodule "src/qt6-qtwayland"]
 	path = src/qt6-qtwayland
 	url = https://github.com/sailfishos-chum/qt6-qtwayland
+[submodule "src/qt6-qtquicktimeline"]
+	path = src/qt6-qtquicktimeline
+	url = https://github.com/sailfishos-chum/qt6-qtquicktimeline
+[submodule "src/qt6-qt3d"]
+	path = src/qt6-qt3d
+	url = https://github.com/sailfishos-chum/qt6-qt3d
+[submodule "src/qt6-qtcharts"]
+	path = src/qt6-qtcharts
+	url = https://github.com/sailfishos-chum/qt6-qtcharts
+[submodule "src/qt6-qtdatavis3d"]
+	path = src/qt6-qtdatavis3d
+	url = https://github.com/sailfishos-chum/qt6-qtdatavis3d
+[submodule "src/qt6-qtscxml"]
+	path = src/qt6-qtscxml
+	url = https://github.com/sailfishos-chum/qt6-qtscxml
+[submodule "src/qt6-qtsensors"]
+	path = src/qt6-qtsensors
+	url = https://github.com/sailfishos-chum/qt6-qtsensors
+[submodule "src/qt6-qtwebchannel"]
+	path = src/qt6-qtwebchannel
+	url = https://github.com/sailfishos-chum/qt6-qtwebchannel

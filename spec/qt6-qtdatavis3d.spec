@@ -1,0 +1,1 @@
+../src/qt6-qtdatavis3d/rpm/qt6-qtdatavis3d.spec

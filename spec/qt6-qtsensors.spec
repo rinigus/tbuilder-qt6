@@ -1,0 +1,1 @@
+../src/qt6-qtsensors/rpm/qt6-qtsensors.spec
