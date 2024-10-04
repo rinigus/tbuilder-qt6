@@ -31,3 +31,12 @@
 [submodule "src/qt6-qtwebchannel"]
 	path = src/qt6-qtwebchannel
 	url = https://github.com/sailfishos-chum/qt6-qtwebchannel
+[submodule "src/kf6-kirigami"]
+	path = src/kf6-kirigami
+	url = https://github.com/sailfishos-chum/kf6-kirigami
+[submodule "src/kf6-kcoreaddons"]
+	path = src/kf6-kcoreaddons
+	url = https://github.com/sailfishos-chum/kf6-kcoreaddons
+[submodule "src/kf6-extra-cmake-modules"]
+	path = src/kf6-extra-cmake-modules
+	url = https://github.com/sailfishos-chum/kf6-extra-cmake-modules

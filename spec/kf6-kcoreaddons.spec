@@ -1,0 +1,1 @@
+../src/kf6-kcoreaddons/rpm/kf6-kcoreaddons.spec
