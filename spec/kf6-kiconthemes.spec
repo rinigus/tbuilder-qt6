@@ -1,0 +1,1 @@
+../src/kf6-kiconthemes/rpm/kf6-kiconthemes.spec

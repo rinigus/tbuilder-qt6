@@ -52,3 +52,6 @@
 [submodule "src/qt6-qtmultimedia"]
 	path = src/qt6-qtmultimedia
 	url = https://github.com/sailfishos-chum/qt6-qtmultimedia
+[submodule "src/kf6-kiconthemes"]
+	path = src/kf6-kiconthemes
+	url = https://github.com/sailfishos-chum/kf6-kiconthemes
