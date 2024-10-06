@@ -55,3 +55,6 @@
 [submodule "src/kf6-kiconthemes"]
 	path = src/kf6-kiconthemes
 	url = https://github.com/sailfishos-chum/kf6-kiconthemes
+[submodule "src/kf6-ksvg"]
+	path = src/kf6-ksvg
+	url = https://github.com/sailfishos-chum/kf6-ksvg

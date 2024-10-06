@@ -1,0 +1,1 @@
+../src/kf6-ksvg/rpm/kf6-ksvg.spec
