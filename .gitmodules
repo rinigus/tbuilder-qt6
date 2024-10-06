@@ -58,3 +58,6 @@
 [submodule "src/kf6-ksvg"]
 	path = src/kf6-ksvg
 	url = https://github.com/sailfishos-chum/kf6-ksvg
+[submodule "src/kf6-kitemmodels"]
+	path = src/kf6-kitemmodels
+	url = https://github.com/sailfishos-chum/kf6-kitemmodels
