@@ -67,3 +67,6 @@
 [submodule "src/kf6-kquickcharts"]
 	path = src/kf6-kquickcharts
 	url = https://github.com/sailfishos-chum/kf6-kquickcharts
+[submodule "src/kf6-qqc2-breeze-style"]
+	path = src/kf6-qqc2-breeze-style
+	url = https://github.com/sailfishos-chum/kf6-qqc2-breeze-style
