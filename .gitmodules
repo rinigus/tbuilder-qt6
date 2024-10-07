@@ -64,3 +64,6 @@
 [submodule "src/kf6-kirigami-addons"]
 	path = src/kf6-kirigami-addons
 	url = https://github.com/sailfishos-chum/kf6-kirigami-addons
+[submodule "src/kf6-kquickcharts"]
+	path = src/kf6-kquickcharts
+	url = https://github.com/sailfishos-chum/kf6-kquickcharts
