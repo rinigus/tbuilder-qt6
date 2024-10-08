@@ -7,3 +7,4 @@ rpms: RPMS
 repositories:
   - https://repo.sailfishos.org/obs/sailfishos:/chum:/testing/@VERSION@_@ARCH@/
   - https://repo.sailfishos.org/obs/home:/rinigus:/qt6/sailfish_latest_@ARCH@/
+
