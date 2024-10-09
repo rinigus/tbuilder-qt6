@@ -1,0 +1,1 @@
+../src/kf6-qqc2-breeze-style/rpm/kf6-qqc2-breeze-style.spec

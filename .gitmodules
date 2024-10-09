@@ -55,3 +55,21 @@
 [submodule "src/kf6-kiconthemes"]
 	path = src/kf6-kiconthemes
 	url = https://github.com/sailfishos-chum/kf6-kiconthemes
+[submodule "src/kf6-ksvg"]
+	path = src/kf6-ksvg
+	url = https://github.com/sailfishos-chum/kf6-ksvg
+[submodule "src/kf6-kitemmodels"]
+	path = src/kf6-kitemmodels
+	url = https://github.com/sailfishos-chum/kf6-kitemmodels
+[submodule "src/kf6-kirigami-addons"]
+	path = src/kf6-kirigami-addons
+	url = https://github.com/sailfishos-chum/kf6-kirigami-addons
+[submodule "src/kf6-kquickcharts"]
+	path = src/kf6-kquickcharts
+	url = https://github.com/sailfishos-chum/kf6-kquickcharts
+[submodule "src/kf6-qqc2-breeze-style"]
+	path = src/kf6-qqc2-breeze-style
+	url = https://github.com/sailfishos-chum/kf6-qqc2-breeze-style
+[submodule "src/qt6-qtvirtualkeyboard"]
+	path = src/qt6-qtvirtualkeyboard
+	url = https://github.com/sailfishos-chum/qt6-qtvirtualkeyboard

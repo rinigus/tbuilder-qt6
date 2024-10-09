@@ -1,0 +1,1 @@
+../src/kf6-kquickcharts/rpm/kf6-kquickcharts.spec

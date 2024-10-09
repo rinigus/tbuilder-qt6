@@ -1,0 +1,1 @@
+../src/kf6-kirigami-addons/rpm/kf6-kirigami-addons.spec
