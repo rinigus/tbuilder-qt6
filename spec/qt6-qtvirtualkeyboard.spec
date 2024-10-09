@@ -1,0 +1,1 @@
+../src/qt6-qtvirtualkeyboard/rpm/qt6-qtvirtualkeyboard.spec
