@@ -1,0 +1,1 @@
+../src/qt6-qtconnectivity/rpm/qt6-qtconnectivity.spec

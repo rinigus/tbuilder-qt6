@@ -1,0 +1,1 @@
+../src/qt6-qtimageformats/rpm/qt6-qtimageformats.spec

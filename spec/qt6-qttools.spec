@@ -1,0 +1,1 @@
+../src/qt6-qttools/rpm/qt6-qttools.spec

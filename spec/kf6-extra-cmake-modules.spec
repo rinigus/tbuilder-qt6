@@ -1,0 +1,1 @@
+../src/kf6-extra-cmake-modules/rpm/kf6-extra-cmake-modules.spec

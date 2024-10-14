@@ -1,0 +1,1 @@
+../src/kf6-karchive/rpm/kf6-karchive.spec

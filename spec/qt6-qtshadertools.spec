@@ -1,0 +1,1 @@
+../src/qt6-qtshadertools/rpm/qt6-qtshadertools.spec

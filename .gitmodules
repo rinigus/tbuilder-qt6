@@ -73,3 +73,57 @@
 [submodule "src/qt6-qtvirtualkeyboard"]
 	path = src/qt6-qtvirtualkeyboard
 	url = https://github.com/sailfishos-chum/qt6-qtvirtualkeyboard
+[submodule "src/qt6"]
+	path = src/qt6
+	url = https://github.com/sailfishos-chum/qt6
+[submodule "src/kf6"]
+	path = src/kf6
+	url = https://github.com/sailfishos-chum/kf6
+[submodule "src/qt6-qtbase"]
+	path = src/qt6-qtbase
+	url = https://github.com/sailfishos-chum/qt6-qtbase
+[submodule "src/qt6-qtconnectivity"]
+	path = src/qt6-qtconnectivity
+	url = https://github.com/sailfishos-chum/qt6-qtconnectivity
+[submodule "src/qt6-qthttpserver"]
+	path = src/qt6-qthttpserver
+	url = https://github.com/sailfishos-chum/qt6-qthttpserver
+[submodule "src/qt6-qtimageformats"]
+	path = src/qt6-qtimageformats
+	url = https://github.com/sailfishos-chum/qt6-qtimageformats
+[submodule "src/qt6-qtlanguageserver"]
+	path = src/qt6-qtlanguageserver
+	url = https://github.com/sailfishos-chum/qt6-qtlanguageserver
+[submodule "src/qt6-qtnetworkauth"]
+	path = src/qt6-qtnetworkauth
+	url = https://github.com/sailfishos-chum/qt6-qtnetworkauth
+[submodule "src/qt6-qtserialport"]
+	path = src/qt6-qtserialport
+	url = https://github.com/sailfishos-chum/qt6-qtserialport
+[submodule "src/qt6-qtshadertools"]
+	path = src/qt6-qtshadertools
+	url = https://github.com/sailfishos-chum/qt6-qtshadertools
+[submodule "src/qt6-qtsvg"]
+	path = src/qt6-qtsvg
+	url = https://github.com/sailfishos-chum/qt6-qtsvg
+[submodule "src/qt6-qttools"]
+	path = src/qt6-qttools
+	url = https://github.com/sailfishos-chum/qt6-qttools
+[submodule "src/qt6-qtwebsockets"]
+	path = src/qt6-qtwebsockets
+	url = https://github.com/sailfishos-chum/qt6-qtwebsockets
+[submodule "src/kf6-breeze-icons"]
+	path = src/kf6-breeze-icons
+	url = https://github.com/sailfishos-chum/kf6-breeze-icons
+[submodule "src/kf6-extra-cmake-modules"]
+	path = src/kf6-extra-cmake-modules
+	url = https://github.com/sailfishos-chum/kf6-extra-cmake-modules
+[submodule "src/kf6-karchive"]
+	path = src/kf6-karchive
+	url = https://github.com/sailfishos-chum/kf6-karchive
+[submodule "src/kf6-kcodecs"]
+	path = src/kf6-kcodecs
+	url = https://github.com/sailfishos-chum/kf6-kcodecs
+[submodule "src/qt6-qtwebengine"]
+	path = src/qt6-qtwebengine
+	url = https://github.com/sailfishos-chum/qt6-qtwebengine

@@ -1,0 +1,1 @@
+../src/kf6/rpm/kf6.spec

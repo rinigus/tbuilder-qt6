@@ -1,0 +1,1 @@
+../src/qt6-qtserialport/rpm/qt6-qtserialport.spec

@@ -1,0 +1,1 @@
+../src/qt6-qtbase/rpm/qt6-qtbase.spec

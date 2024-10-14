@@ -1,0 +1,1 @@
+../src/qt6-qtnetworkauth/rpm/qt6-qtnetworkauth.spec

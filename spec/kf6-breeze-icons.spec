@@ -1,0 +1,1 @@
+../src/kf6-breeze-icons/rpm/kf6-breeze-icons.spec

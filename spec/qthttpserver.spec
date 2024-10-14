@@ -1,0 +1,1 @@
+../src/qt6-qthttpserver/rpm/qthttpserver.spec

@@ -1,0 +1,1 @@
+../src/kf6-kcodecs/rpm/kf6-kcodecs.spec
