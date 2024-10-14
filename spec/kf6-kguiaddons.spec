@@ -1,0 +1,1 @@
+../src/kf6-kguiaddons/rpm/kf6-kguiaddons.spec

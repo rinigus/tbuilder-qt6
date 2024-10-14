@@ -1,0 +1,1 @@
+../src/kf6-kitemviews/rpm/kf6-kitemviews.spec

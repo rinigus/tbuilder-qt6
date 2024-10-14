@@ -127,3 +127,27 @@
 [submodule "src/qt6-qtwebengine"]
 	path = src/qt6-qtwebengine
 	url = https://github.com/sailfishos-chum/qt6-qtwebengine
+[submodule "src/kf6-kcolorscheme"]
+	path = src/kf6-kcolorscheme
+	url = https://github.com/sailfishos-chum/kf6-kcolorscheme
+[submodule "src/kf6-kconfigwidgets"]
+	path = src/kf6-kconfigwidgets
+	url = https://github.com/sailfishos-chum/kf6-kconfigwidgets
+[submodule "src/kf6-kguiaddons"]
+	path = src/kf6-kguiaddons
+	url = https://github.com/sailfishos-chum/kf6-kguiaddons
+[submodule "src/kf6-kitemviews"]
+	path = src/kf6-kitemviews
+	url = https://github.com/sailfishos-chum/kf6-kitemviews
+[submodule "src/kf6-kwidgetsaddons"]
+	path = src/kf6-kwidgetsaddons
+	url = https://github.com/sailfishos-chum/kf6-kwidgetsaddons
+[submodule "src/kf6-plasma-wayland-protocols"]
+	path = src/kf6-plasma-wayland-protocols
+	url = https://github.com/sailfishos-chum/kf6-plasma-wayland-protocols
+[submodule "src/kf6-qqc2-desktop-style"]
+	path = src/kf6-qqc2-desktop-style
+	url = https://github.com/sailfishos-chum/kf6-qqc2-desktop-style
+[submodule "src/kf6-sonnet"]
+	path = src/kf6-sonnet
+	url = https://github.com/sailfishos-chum/kf6-sonnet

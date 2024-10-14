@@ -1,0 +1,1 @@
+../src/kf6-sonnet/rpm/kf6-sonnect.spec

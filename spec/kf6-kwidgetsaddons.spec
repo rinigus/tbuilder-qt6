@@ -1,0 +1,1 @@
+../src/kf6-kwidgetsaddons/rpm/kf6-kwidgetsaddons.spec

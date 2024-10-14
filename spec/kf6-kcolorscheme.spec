@@ -1,0 +1,1 @@
+../src/kf6-kcolorscheme/rpm/kf6-kcolorscheme.spec

@@ -1,0 +1,1 @@
+../src/kf6-plasma-wayland-protocols/rpm/plasma-wayland-protocols.spec

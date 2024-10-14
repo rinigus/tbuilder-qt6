@@ -1,0 +1,1 @@
+../src/kf6-qqc2-desktop-style/rpm/kf6-qqc2-desktop-style.spec

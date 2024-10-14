@@ -1,0 +1,1 @@
+../src/kf6-kconfigwidgets/rpm/kf6-kconfigwidgets.spec
