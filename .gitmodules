@@ -151,3 +151,9 @@
 [submodule "src/kf6-sonnet"]
 	path = src/kf6-sonnet
 	url = https://github.com/sailfishos-chum/kf6-sonnet
+[submodule "src/kf6-kdbusaddons"]
+	path = src/kf6-kdbusaddons
+	url = https://github.com/sailfishos-chum/kf6-kdbusaddons
+[submodule "src/kf6-kwindowsystem"]
+	path = src/kf6-kwindowsystem
+	url = https://github.com/sailfishos-chum/kf6-kwindowsystem

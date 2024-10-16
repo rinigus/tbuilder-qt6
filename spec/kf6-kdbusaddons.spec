@@ -1,0 +1,1 @@
+../src/kf6-kdbusaddons/rpm/kf6-kdbusaddons.spec
