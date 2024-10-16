@@ -14,8 +14,21 @@ depend on each other. So, all Qt6 and KF6 packages are packaged here and later u
 of prebuilt package.
 
 Build node configuration: 
-- Shape: VM.Standard.A2.Flex
-- OCPU count: 4
+- Shape: VM.Standard.A1.Flex
+- OCPU count: 6
 - Memory (GB): 24
 - Boot volume: 75 GB
 
+Check out the sources for build using:
+
+```
+git clone https://github.com/rinigus/tbuilder-qt6
+cd tbuilder-qt6
+git submodule update --init
+```
+
+To update all submodules to the latest version:
+
+```
+git submodule update --remote --merge
+```
