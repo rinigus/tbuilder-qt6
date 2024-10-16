@@ -5,6 +5,8 @@ rpms: RPMS
 
 shallow_clones: 1
 
+vendor: chum
+
 repositories:
   - https://repo.sailfishos.org/obs/sailfishos:/chum:/testing/@VERSION@_@ARCH@/
   - https://repo.sailfishos.org/obs/nemo:/devel:/hw:/native-common/sailfish_latest_@ARCH@/
