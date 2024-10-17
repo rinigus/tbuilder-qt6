@@ -157,3 +157,6 @@
 [submodule "src/kf6-kwindowsystem"]
 	path = src/kf6-kwindowsystem
 	url = https://github.com/sailfishos-chum/kf6-kwindowsystem
+[submodule "src/kf6-knotifications"]
+	path = src/kf6-knotifications
+	url = https://github.com/sailfishos-chum/kf6-knotifications
