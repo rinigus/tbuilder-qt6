@@ -160,3 +160,6 @@
 [submodule "src/kf6-knotifications"]
 	path = src/kf6-knotifications
 	url = https://github.com/sailfishos-chum/kf6-knotifications
+[submodule "src/qt6-qt5compat"]
+	path = src/qt6-qt5compat
+	url = https://github.com/sailfishos-chum/qt6-qt5compat

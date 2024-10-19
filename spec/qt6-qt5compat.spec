@@ -1,0 +1,1 @@
+../src/qt6-qt5compat/rpm/qt6-qt5compat.spec
