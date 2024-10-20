@@ -1,0 +1,1 @@
+../src/kf6-kcalendarcore/rpm/kf6-kcalendarcore.spec

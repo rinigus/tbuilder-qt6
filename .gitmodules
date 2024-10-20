@@ -169,3 +169,9 @@
 [submodule "src/kf6-kcontacts"]
 	path = src/kf6-kcontacts
 	url = https://github.com/sailfishos-chum/kf6-kcontacts
+[submodule "src/kf6-prison"]
+	path = src/kf6-prison
+	url = https://github.com/sailfishos-chum/kf6-prison
+[submodule "src/kf6-kcalendarcore"]
+	path = src/kf6-kcalendarcore
+	url = https://github.com/sailfishos-chum/kf6-kcalendarcore
