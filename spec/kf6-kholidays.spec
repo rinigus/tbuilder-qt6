@@ -1,0 +1,1 @@
+../src/kf6-kholidays/rpm/kf6-kholidays.spec

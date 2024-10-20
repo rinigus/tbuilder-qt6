@@ -163,3 +163,9 @@
 [submodule "src/qt6-qt5compat"]
 	path = src/qt6-qt5compat
 	url = https://github.com/sailfishos-chum/qt6-qt5compat
+[submodule "src/kf6-kholidays"]
+	path = src/kf6-kholidays
+	url = https://github.com/sailfishos-chum/kf6-kholidays
+[submodule "src/kf6-kcontacts"]
+	path = src/kf6-kcontacts
+	url = https://github.com/sailfishos-chum/kf6-kcontacts

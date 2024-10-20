@@ -1,0 +1,1 @@
+../src/kf6-kcontacts/rpm/kf6-kcontacts.spec
